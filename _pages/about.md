@@ -1,7 +1,7 @@
 ---
-title: About Simples
-description: Simples is a super simple blogging theme for Jekyll.
-subtitle: Simples is a super simple blogging theme for Jekyll.
+title: About Kira
+description: Kira's about page.
+subtitle: Kira's about page.
 featured_image: /images/social.jpg
 ---
 

@@ -1,16 +1,16 @@
 basic_settings:
-  site_title: Simples
-  site_tagline: A super simple blogging theme for Jekyll.
+  site_title: Kira Fox Cooper
+  site_tagline: Kira's yogi website.
   favicon_image: /images/favicon.png
 
 header_settings:
-  avatar_image: /images/avatar.jpg
+  avatar_image: /images/kirafox.jpeg
   logo_image: 
   logo_width: 200
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Home'
       url: '/'
     - title: 'Projects'
       url: '/projects/'
@@ -23,7 +23,7 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/xeqbkpyj'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
@@ -31,9 +31,9 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/trendyandbendy/'
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/@kirafoxyoga5370'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/kira-fox/'
 
 color_settings:
   background_color: '#ffffff'
